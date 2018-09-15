@@ -5,6 +5,9 @@ def my_each(collection)
   while i < array.length
     yield array[i]
     i = i + 1 
+  end 
+  
+  puts array 
 end
 
 def hello_t(array)
