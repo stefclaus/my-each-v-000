@@ -11,4 +11,5 @@ def my_each(collection)
   
   else
     puts "Hey! No block was given!"
+  end 
 end
