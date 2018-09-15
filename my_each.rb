@@ -9,7 +9,4 @@ def my_each(collection)
   
   puts array 
   
-  else
-    puts "Hey! No block was given!"
-  end 
 end
