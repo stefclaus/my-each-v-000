@@ -1,5 +1,9 @@
 def my_each(collection)
-  # code here
+  if my_each
+    i = 0 
+    
+  while i < array.length
+    yield array[i]
 end
 
 def hello_t(array)
