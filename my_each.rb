@@ -1,5 +1,5 @@
 def my_each(collection)
-  if my_each
+  my_each
     i = 0 
     
   while i < array.length
