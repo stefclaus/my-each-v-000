@@ -8,6 +8,9 @@ def my_each(collection)
   end 
   
   puts array 
+  
+  else
+    puts "Hey! No block was given!"
 end
 
 def hello_t(array)
